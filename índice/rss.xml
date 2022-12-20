@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+      <rss version="2.0">
+          <channel>
+              <title>Paginaweb1ºASIR</title>
+              <link></link>
+              <description>Esto es un proyecto para la asignatura de Lenguajes de Marcas para la Gestión de la Información</description>
+              <item>
+                   <title>LibreOffice en Ubuntu</title>
+                   <link></link>
+                   <description>Este artículo trata sobre la descarga de LibreOffice para el sistema operativo Ubuntu</description>
+              </item>
+          </channel>
+      </rss>
